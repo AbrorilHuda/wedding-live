@@ -85,8 +85,8 @@ export const DICTIONARY: Record<Locale, Dictionary> = {
   id: {
     coupleNames: "Eeng & Intan",
     monogram: "E & I",
-    eventDate: "Sabtu, 21 November 2026",
-    eventLocation: "Glasshouse Garden, Jakarta",
+    eventDate: "Senin, 23 November 2026",
+    eventLocation: "Duko Dempo Timur",
     heroBadge: "Galeri Tamu Pernikahan",
     heroGreeting: "Terima kasih telah hadir merayakan hari bahagia kami.",
     heroCtaText: "Abadikan momen kami. Bagikan foto terbaikmu di sini.",
@@ -195,8 +195,8 @@ export const DICTIONARY: Record<Locale, Dictionary> = {
   en: {
     coupleNames: "Eeng & Intan",
     monogram: "E & I",
-    eventDate: "Saturday, November 21, 2026",
-    eventLocation: "Glasshouse Garden, Jakarta",
+    eventDate: "Monday, November 23, 2026",
+    eventLocation: "Duko Dempo Timur",
     heroBadge: "Wedding Guest Gallery",
     heroGreeting: "Thank you for celebrating our special day with us.",
     heroCtaText: "Capture our moments. Share your favorite photos here.",
